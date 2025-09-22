@@ -111,6 +111,7 @@ _LANGUAGE_MAP = {
     "serbian": "srp",
     "thai": "tha",
     "turkish": "tur",
+    "korean" : "kor",
 }
 
 _DEFAULT_HEADERS = {
